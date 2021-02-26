@@ -1,3 +1,6 @@
 .DS_Store
 stylelint.config.js
 .vscode/
+node_modules
+.eslintrc
+package-lock.json
